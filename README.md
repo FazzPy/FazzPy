@@ -29,3 +29,7 @@ Yeteneklerim
 <a href="https://instagram.com/fazz.py">
     <img height="32" align="left" alt="Website" src="img/instagram.png" />
 </a>
+
+<a href="https://discord.gg/YNAPq9ASD2">
+    <img height="32" align="left" alt="Website" src="img/discord.png" />
+</a>
