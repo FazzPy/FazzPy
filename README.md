@@ -12,6 +12,8 @@ Hayatım
 :computer: **Favori Dizi : Mr. Robot**<br>
 :book: **Favori Kitap : H.G Tannhaus Zamanda Yolculuk**<br>
 
+<img align="right" alt="Barkod" src="img/Fazz.jpg" />
+
 Yeteneklerim
 ------------
 :coffee:         **Python** <br>
@@ -27,9 +29,10 @@ Yeteneklerim
 - - -
 
 <a href="https://instagram.com/fazz.py">
-    <img height="32" align="left" alt="Website" src="img/instagram.png" />
+    <img height="32" align="left" alt="instagram" src="img/instagram.png" />
 </a>
 
 <a href="https://discord.gg/YNAPq9ASD2">
-    <img height="32" align="left" alt="Website" src="img/discord.png" />
+    <img height="32" align="left" alt="Discord" src="img/discord.png" />
 </a>
+
