@@ -1,7 +1,7 @@
 Selam, Ben Fazz :wave:
 ======================
 
-Siber Güvenlik, Yazılım, Veri Bilimi, Web Tasarım, Bulut Bilişim ve Dijital pazarlama ile ilgileniyorum.
+Siber Güvenlik, Yazılım, Veri Bilimi, Ağ Sistemleri, Bulut Bilişim ve Dijital pazarlama ile ilgileniyorum.
 
 Hayatım
 -------
@@ -22,7 +22,8 @@ Yeteneklerim
 :secret:         **Linux**<br>
 :ox:             **Web Tasarım**<br>
 :computer_mouse: **Bulut Mimarisi**<br>
-:dollar:        **Dijital Pazarlama**<br>
+:alien:          **Ağ Sistemleri**<br>
+:dollar:         **Dijital Pazarlama**<br>
 **ve daha fazlası...**<br>
 
 - - -
