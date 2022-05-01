@@ -1,7 +1,7 @@
 Selam, Ben Fazz :wave:
 ======================
 
-Siber Güvenlik, Yazılım, Veri Bilimi, Ağ Sistemleri, Bulut Bilişim ve Dijital pazarlama ile ilgileniyorum.
+Selam! Ben Batın 16 Yaşındayım. Lise öğrencisiyim Python, Bash, JavaScript, Solidity dillerini biliyorum. Bilişim bölümü öğrencisiyim ve Linux, Ağ Sistemleri, Bulut Bilişim, Web Tasarım, Digital Marketing, Finans ve Block Chain hakkında bilgiliyim. Siber Güvenlik Mühendisi olma yolundayım. Gelecekte görüşmek üzere!
 
 Hayatım
 -------
