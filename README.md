@@ -24,6 +24,7 @@ Yeteneklerim
 :computer_mouse: **Bulut Mimarisi**<br>
 :alien:          **Ağ Sistemleri**<br>
 :dollar:         **Dijital Pazarlama**<br>
+:moneybag:       **BlockChain & Solidty**<br>
 **ve daha fazlası...**<br>
 
 - - -
