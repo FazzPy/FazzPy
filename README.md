@@ -1,31 +1,29 @@
-Selam, Ben Fazz :wave:
+Hi, I am Fazz :wave:
 ======================
 
-Selam! Ben Batın 16 Yaşındayım. Lise öğrencisiyim Python, Bash, JavaScript, Solidity dillerini biliyorum. Bilişim bölümü öğrencisiyim ve Linux, Ağ Sistemleri, Bulut Bilişim, Web Tasarım, Digital Marketing, Finans ve Block Chain hakkında bilgiliyim. Siber Güvenlik Mühendisi olma yolundayım. Gelecekte görüşmek üzere!
+Hi! I am Batın 17 years old. I am a high school student. I am a student of IT department and I am knowledgeable about Operating Systems, Network Systems, Cloud Computing, Web Development, Digital Marketing, Finance and Block Chain. I am on my way to become a Cyber Security Engineer. See you in the future!
 
-Hayatım
+My Life
 -------
-:gem:     **Lise 10. Sınıf Öğrencisiyim**<br>
-:moneybag:   **Bilişim Bölümünde okuyorum.**<br>
-:desktop_computer: **Çoğunluk Siber Güvenlik ve Yazılım üstüne vakit geçiriyorum.**<br>
-:car: **Favori Film : Back To The Future**<br>
-:computer: **Favori Dizi : Mr. Robot**<br>
-:book: **Favori Kitap : H.G Tannhaus Zamanda Yolculuk**<br>
+:gem:     **Vocational high School**<br>
+:moneybag:   **IT Department**<br>
+:desktop_computer: **Cyber Security & Web Development**<br>
+:car: **Favorite Movie : Back To The Future**<br>
+:computer: **Favorite Series : Mr. Robot**<br>
+:book: **Favorite Book : H.G Tannhaus Time Travelling**<br>
 
 <img align="right" alt="Barkod" src="img/Fazz.jpg" />
 
-Yeteneklerim
-------------
-:coffee:         **Python** <br>
-:sunglasses:     **Bash**<br>
-:guardsman:      **Siber Güvenlik**<br>
-:secret:         **Linux**<br>
-:ox:             **Web Tasarım**<br>
-:computer_mouse: **Bulut Mimarisi**<br>
-:alien:          **Ağ Sistemleri**<br>
-:dollar:         **Dijital Pazarlama**<br>
-:moneybag:       **BlockChain & Solidity**<br>
-**ve daha fazlası...**<br>
+Professional Skills
+------------ 
+:guardsman:      **Cyber Security** <br>
+:coffee:         **Web Development**<br>
+:sunglasses:     **Network & Cloud**<br>
+:secret:         **Operating Systems**<br>
+:ox:             **Finance & Marketing**<br>
+:computer_mouse: **Artificial Intelligence**<br>
+:dollar:         **Blockchain**<br>
+**And more...**<br>
 
 - - -
 
@@ -33,7 +31,7 @@ Yeteneklerim
     <img height="32" align="left" alt="instagram" src="img/instagram.png" />
 </a>
 
-<a href="https://discord.gg/YNAPq9ASD2">
+<a href="https://discord.gg/ymbYf6mBPD">
     <img height="32" align="left" alt="Discord" src="img/discord.png" />
 </a>
 
