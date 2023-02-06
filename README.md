@@ -8,7 +8,7 @@ Web Sites
 -------
 https://fazz.ml<br>
 https://fazztech.net<br>
-https://fazzwear.com<br>
+https://balevde.com<br>
 https://ckfajans.com<br>
 
 
