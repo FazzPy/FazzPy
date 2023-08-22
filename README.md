@@ -7,7 +7,6 @@ Hi! I am Batın 17 years old. I am a high school student. I am a student of IT d
 Personal Web Sites
 -------
 https://batin.org<br>
-https://fazz.ml<br>
 
 Company Web Sites
 -------
