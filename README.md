@@ -1,4 +1,4 @@
-Hi, I am Fazz :wave:
+Hi, I am Batın :wave:
 ======================
 
 Hi! I am Batın 17 years old. I am a high school student. I am a student of IT department and I am knowledgeable about Operating Systems, Network Systems, Cloud Computing, Web Development, Digital Marketing, Block Chain. I am on my way to become a Cyber Security Engineer. See you in the future!
@@ -39,11 +39,11 @@ Professional Skills
 
 - - -
 
-<a href="https://instagram.com/fazz.py">
+<a href="https://instagram.com/batinnz">
     <img height="32" align="left" alt="instagram" src="img/instagram.png" />
 </a>
 
-<a href="https://discord.gg/5rkXA8Y6hn">
+<a href="https://discord.gg/anASDXHSmt">
     <img height="32" align="left" alt="Discord" src="img/discord.png" />
 </a>
 
