@@ -3,16 +3,12 @@ Hi, I am Batın :wave:
 
 Hi! I am Batın 17 years old. I am a high school student. I am a student of IT department and I am knowledgeable about Operating Systems, Network Systems, Cloud Computing, Web Development, Digital Marketing, Block Chain. I am on my way to become a Cyber Security Engineer. See you in the future!
 
-
-Personal Web Sites
--------
-https://batin.org<br>
-
 Company Web Sites
 -------
 
 https://fazzai.com<br>
-https://fazzagency.com<br>
+https://tr.fazzai.com<br>
+https://fazzagency.fazzai.com<br>
 
 
 My Life
