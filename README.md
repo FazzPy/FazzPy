@@ -1,21 +1,18 @@
 Hi, I am Batın :wave:
 ======================
 
-Hi! I am Batın 17 years old. I am a high school student. I am a student of IT department and I am knowledgeable about Operating Systems, Network Systems, Cloud Computing, Web Development, Digital Marketing, Block Chain. I am on my way to become a Cyber Security Engineer. See you in the future!
+Hi! I am Batın 18 years old. I am interesting in cyber security.
 
 Company Web Sites
 -------
 
-https://fazzai.com<br>
-https://tr.fazzai.com<br>
-https://fazzagency.fazzai.com<br>
+https://netsecure.com.tr
+https://fazzagency.com
 
 
 My Life
 -------
-:gem:     **Vocational high School**<br>
-:moneybag:   **IT Department**<br>
-:desktop_computer: **Cyber Security & Web Development**<br>
+:moneybag:   **Cyber Security**<br>
 :car: **Favorite Movie : Back To The Future**<br>
 :computer: **Favorite Series : Mr. Robot**<br>
 :book: **Favorite Book : H.G Tannhaus Time Travelling**<br>
@@ -25,21 +22,13 @@ My Life
 Professional Skills
 ------------ 
 :guardsman:      **Cyber Security** <br>
-:coffee:         **Web Development**<br>
-:sunglasses:     **Network & Cloud**<br>
+:sunglasses:     **Network, Cloud and Server Systems**<br>
 :secret:         **Operating Systems**<br>
-:ox:             **Finance & Marketing**<br>
-:computer_mouse: **Artificial Intelligence**<br>
-:dollar:         **Blockchain**<br>
-**And more...**<br>
+:ox:             **Digital Marketing**<br>
 
 - - -
 
 <a href="https://instagram.com/batinnz">
     <img height="32" align="left" alt="instagram" src="img/instagram.png" />
-</a>
-
-<a href="https://discord.gg/anASDXHSmt">
-    <img height="32" align="left" alt="Discord" src="img/discord.png" />
 </a>
 
